@@ -1,0 +1,35 @@
+* {
+    box-sizing:border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main {
+    margin-top: 15em;
+    margin-left: 45em;
+}
+
+table thead th {
+    padding: 0.5em ;
+    font-weight: bold;
+    font-size: 20px;
+    border: 2.5px solid darkgray;
+}
+
+table tr td {
+    padding-left: 12px;
+    text-align: center;
+    border: 2.5px solid darkgray;
+}
+
+
+
+/* alternate color */
+/* Parte feita pelo Gr */
+.clr-all {
+    background-color: white;
+}
+#line-a {
+    background-color: white;
+}
+#line-b {
+    background-color: salmon;
+}
