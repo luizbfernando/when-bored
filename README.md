@@ -8,4 +8,4 @@
 <br>
 ![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 <br>
--https://dicas-escolares.netlify.app
+-https://dicas-conduta.netlify.app
