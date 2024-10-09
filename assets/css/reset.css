@@ -9,10 +9,11 @@ body {
 
 section {
     background-color: var(--red);
-    padding: 1%;
+    padding: 1em;
     display: flex;
     width: fit-content;
-    align-items: center;
+    justify-content: center;
+    align-items: flex-start;
     text-align: justify;
     margin: 2%;
     border-radius: 2%;
